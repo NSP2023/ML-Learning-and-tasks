@@ -1,1 +1,1 @@
-# ML-Learning-and-tasks
+#All the tasks from ML-AI course
